@@ -1,10 +1,11 @@
 ### Hi there 👋
 
+<div algin="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KH54&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KH54&layout=compact&theme=tokyonight)
 
-출처: https://eunhee-programming.tistory.com/244 [코드짜는 문과녀]
+</div>
 
 <!--
 **KH54/KH54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
