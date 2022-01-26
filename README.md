@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div width="150px">
+<div width="100px">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KH54&show_icons=true&theme=tokyonight)
 
