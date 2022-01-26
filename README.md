@@ -2,9 +2,9 @@
 
   
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KH54&show_icons=true&theme=tokyonight&card_width=300)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KH54&show_icons=true&theme=tokyonight&card_width=200)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KH54&layout=compact&theme=tokyonight&card_width=300)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KH54&layout=compact&theme=tokyonight&card_width=200)
 
 
 
