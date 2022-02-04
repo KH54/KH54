@@ -8,7 +8,8 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KH54&layout=compact&theme=tokyonight)
 
-
+[![Solved.ac
+kkkh](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 <!--
 **KH54/KH54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
