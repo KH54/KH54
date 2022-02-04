@@ -4,8 +4,8 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
   
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KH54&show_icons=true&theme=tokyonight)
-  [![Solved.ac
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KH54&show_icons=true&theme=tokyonight?width=200)
+[![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkh)](https://solved.ac/kkkh)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KH54&layout=compact&theme=tokyonight)
 
