@@ -8,8 +8,8 @@
 <hr>
 <hr>
 
-[![Solved.ac
-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkh)](https://solved.ac/kkkh)
+<!--[![Solved.ac
+Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkh)](https://solved.ac/kkkh) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KH54&layout=compact&theme=tokyonight)
 
 
