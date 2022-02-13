@@ -8,7 +8,16 @@
 :pencil2: Information and Communication Engineering in Hannam University (2016.03 ~ 2022.02)   
 :construction_worker: Intern in ymtech (2021.08 ~ 2022. 02)
 
+## Project
+### It's under construction... Please wait a moment :(
+<!--  -->
 
+## 🏆 Award
+ 한남대학교 제 10회 한남 공학페스티벌 "창의설계/아이디어 경진대회" 은상 [2020.12.10]
+ 한남대학교 제 11회 한남 공학페스티벌 "창의적 종합설계 경진대회" 동상 [2021.11.23]
+ 한남대학교 2021 캡스톤디자인 우수 선발 대상 [2022.01.03]
+ 한남대학교 LINC+ 사업단 "2021 LINC+ 캡스톤 디자인 경진대회" 대전광역시장상 대상 [2022.01.20]
+ 
 
   
   
