@@ -1,8 +1,15 @@
 <!-- ### Hi there 👋 -->
 ### It's under construction :(
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
+# I am
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>, <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
+
+# Experience 
+:pencil2: Information and Communication Engineering in Hannam University (2016.03 ~ 2022.02)
+:construction_worker: Intern in ymtech (2021.08 ~ 2022. 02)
+
+
+
   
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KH54&show_icons=true&theme=tokyonight)
@@ -19,8 +26,8 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkh)](https://solved
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
