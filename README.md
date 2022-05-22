@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 - I'm looking for a job.
 - I'm Iron man
-- I'm ready for SAMSUNG Software Academy!
+- I'm ready to enter the SAMSUNG Software Academy!
 
 ## Experience 
 :pencil2: Information and Communication Engineering in Hannam University (2016.03 ~ 2022.02)   
