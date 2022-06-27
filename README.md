@@ -7,6 +7,9 @@
 - I'm Iron man
 - I ready to enter the SAMSUNG Software Academy!
 - I really want to work
+
+## My skills
+
 ## Experience 
 :pencil2: Information and Communication Engineering in Hannam University (2016.03 ~ 2022.02)   
 :construction_worker: Intern in ymtech (2021.08 ~ 2022. 02)
