@@ -19,8 +19,8 @@
 <!--  -->
 
 ## 🏆 Award
-- [🏅 한남대학교 2021 캡스톤디자인 우수 선발 대상 [2022.01.03]   ](https://github.com/KH54/MobileBeaconScan)
-- [🏅 한남대학교 LINC+ 사업단 "2021 LINC+ 캡스톤 디자인 경진대회" 대전광역시장상 대상 [2022.01.20]   ](https://github.com/KH54/MobileBeaconScan)
+- [🏅 한남대학교 2021 캡스톤디자인 우수 선발 대상 [2022.01.03]   ](https://github.com/KH54/Portfolio/tree/main/Award/2021%20LINC%2B%20BeaconScan)
+- [🏅 한남대학교 LINC+ 사업단 "2021 LINC+ 캡스톤 디자인 경진대회" 대전광역시장상 대상 [2022.01.20]   ](https://github.com/KH54/Portfolio/tree/main/Award/2021%20LINC%2B%20BeaconScan)
 - 🥈 한남대학교 제 10회 한남 공학페스티벌 "창의설계/아이디어 경진대회" 은상 [2020.12.10]   
 - 🥉 한남대학교 제 11회 한남 공학페스티벌 "창의적 종합설계 경진대회" 동상 [2021.11.23]   
 
