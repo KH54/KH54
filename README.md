@@ -1,5 +1,3 @@
-<!-- ### Hi there 👋 -->
-### It's under construction :(
 
 ## <div align="center"> 🛠 Tech Stack 🛠 </div>
 <div align="center">
@@ -13,7 +11,8 @@
  <br>
  <div align="center">
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkh)](https://solved.ac/kkkh/)
+ [ ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkh)](https://solved.ac/kkkh/)
+
  </div>
 
 <br><br>
