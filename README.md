@@ -11,8 +11,8 @@
  <br>
 <br>
  <div align="center">
- 
- [ ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkh)](https://solved.ac/kkkh/)
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkh)](https://solved.ac/kkkh)
 
  </div>
 
