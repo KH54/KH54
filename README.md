@@ -25,7 +25,7 @@
 
 <br><br>
 
-## 🏆 Award 🏆
+## <div align="center"> 🏆 Award 🏆 </div>
 - [🏅 한남대학교 2021 캡스톤디자인 우수 선발 대상 [2022.01.03]   ](https://github.com/KH54/Portfolio/tree/main/Award/2021%20LINC%2B%20BeaconScan)
 - [🏅 한남대학교 LINC+ 사업단 "2021 LINC+ 캡스톤 디자인 경진대회" 대전광역시장상 대상 [2022.01.20]   ](https://github.com/KH54/Portfolio/tree/main/Award/2021%20LINC%2B%20BeaconScan)
 - 🥈 한남대학교 제 10회 한남 공학페스티벌 "창의설계/아이디어 경진대회" 은상 [2020.12.10]   
@@ -33,7 +33,7 @@
 
 <br><br>
 
-## 👨‍💻 Project 👨‍💻
+## <div align="center">👨‍💻 Project 👨‍💻 </div>
 
 - LINC+ 사업단 대전 소상공시장 RCC 모바일 앱 개발
 - [BLE Beacon을 이용한 화재 대피 솔루션 앱 개발](https://github.com/KH54/Portfolio/tree/main/Award/2021%20LINC%2B%20BeaconScan)
