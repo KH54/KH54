@@ -1,4 +1,5 @@
-I need a job
+I looking for a job
+plz contact my mail!
 ## <div align="center"> 🛠 Tech Stack 🛠 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
