@@ -37,7 +37,7 @@ plz contact my mail!!
 ## <div align="center">👨‍💻 Project 👨‍💻 </div>
 
 - LINC+ 사업단 대전 소상공시장 RCC 모바일 앱 개발
-- [BLE Beacon을 이용한 화재 대피 솔루션 앱 개발](https://github.com/KH54/Portfolio/tree/main/Award/2021%20LINC%2B%20BeaconScan)
+- [BLE Beacon을 이용한 화재 대피 솔루션 앱 개발 - 특허 진행 중](https://github.com/KH54/Portfolio/tree/main/Award/2021%20LINC%2B%20BeaconScan)
 - [휴대폰 분실 및 낙하 알리미](https://github.com/KH54/Portfolio/tree/main/Project/If%20Lost%20Cell%20Phone)
 
 
