@@ -1,5 +1,7 @@
-I looking for a job
+I looking for a job 
 plz contact my mail!!
+
+
 ## <div align="center"> 🛠 Tech Stack 🛠 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -8,6 +10,9 @@ plz contact my mail!!
  <img src="https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=AngularJS&logoColor=white"/>
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+ 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKH54&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
  </div>
  <br>
 <br>
@@ -16,6 +21,7 @@ plz contact my mail!!
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkh)](https://solved.ac/kkkh)
 
  </div>
+ 
 
 <br><br><br>
 
@@ -37,9 +43,13 @@ plz contact my mail!!
 ## <div align="center">👨‍💻 Project 👨‍💻 </div>
 
 - LINC+ 사업단 대전 소상공시장 RCC 모바일 앱 개발
+  - ( Android Studio, Mozilla FireFox SQLite, PlayStore Service )
 - [BLE Beacon을 이용한 화재 대피 솔루션 앱 개발 - 특허 진행 중](https://github.com/KH54/Portfolio/tree/main/Award/2021%20LINC%2B%20BeaconScan)
+  - ( Android Studio , HTML5, Arduino, BLE )
 - [휴대폰 분실 및 낙하 알리미](https://github.com/KH54/Portfolio/tree/main/Project/If%20Lost%20Cell%20Phone)
-- 제조 SCM 문제해결 플랫폼 ( Spring Boot, Spring MVC, RESTful CRUD / JavaScript, AngularJS / MySQL MariaDB )
+  - ( Android Studio, GPS, ACCELEROMETER )
+- 제조 SCM 문제해결 플랫폼
+  - ( Spring Boot, Spring MVC, RESTful CRUD / JavaScript, AngularJS / MySQL MariaDB )
 
 
 <div align="center">
