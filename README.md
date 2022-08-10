@@ -29,7 +29,7 @@ plz contact my mail!!!
 ##  <div align="center"> 💼 Careers 💼 </div>
 :pencil2: Information and Communication Engineering in Hannam University (2016.03 ~ 2022.02)   
 :construction_worker: Intern in ymtech (2021.08 ~ 2022. 02)
-
+codestates back end
 <br><br>
 
 ## <div align="center"> 🏆 Award 🏆 </div>
