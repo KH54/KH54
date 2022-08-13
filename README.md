@@ -1,5 +1,5 @@
 I looking for a job 
-plz contact my mail!!!
+plz contact my mail!
 
 
 ## <div align="center"> 🛠 Tech Stack 🛠 </div>
