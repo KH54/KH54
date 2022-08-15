@@ -29,8 +29,9 @@ plz contact my mail!
 ##  <div align="center"> 💼 Careers 💼 </div>
 :pencil2: Information and Communication Engineering in Hannam University (2016.03 ~ 2022.02)   
 :construction_worker: Intern in ymtech (2021.08 ~ 2022. 02)
-codestates back end
+codestates back end course (2022.08.19 ~ )
 <br><br>
+
 
 ## <div align="center"> 🏆 Award 🏆 </div>
 - [🏅 한남대학교 2021 캡스톤디자인 우수 선발 대상 [2022.01.03]   ](https://github.com/KH54/Portfolio/tree/main/Award/2021%20LINC%2B%20BeaconScan)
