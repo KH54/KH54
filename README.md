@@ -10,7 +10,8 @@ plz contact my mail!
  <img src="https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=AngularJS&logoColor=white"/>
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
- HTML
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+ 
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKH54&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
  </div>
@@ -28,8 +29,8 @@ plz contact my mail!
 
 ##  <div align="center"> 💼 Careers 💼 </div>
 :pencil2: Information and Communication Engineering in Hannam University (2016.03 ~ 2022.02)   
-:construction_worker: Intern in ymtech (2021.08 ~ 2022. 02)
-codestates back end course (2022.08.19 ~ )
+:construction_worker: Intern in ymtech (2021.08 ~ 2022. 02)   
+:pencil2: Codestates back end course (2022.08.19 ~ )
 <br><br>
 
 
