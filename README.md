@@ -1,4 +1,4 @@
-I looking for a job 
+9I looking for a job 
 plz contact my mail!
 
 
@@ -31,7 +31,7 @@ plz contact my mail!
 :pencil2: Information and Communication Engineering in Hannam University (2016.03 ~ 2022.02)   
 :construction_worker: Intern in ymtech (2021.08 ~ 2022. 02)   
 :pencil2: Codestates back end course (2022.08.19 ~ )
-<br><br>
+<br><br><br>
 
 
 ## <div align="center"> 🏆 Award 🏆 </div>
