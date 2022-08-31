@@ -44,7 +44,7 @@ plz contact my mail!
 
 ## <div align="center">👨‍💻 Project 👨‍💻 </div>
 
-- LINC+ 사업단 대전 소상공시장 RCC 모바일 앱 개발
+- LINC+ 사업단 대전 소상공시장 RCC 모바일 앱 개발 - 소유권 이전으로 인해 코드를 공유할 수 없습니다.
   - ( Android Studio, Mozilla FireFox SQLite, PlayStore Service )
 - [BLE Beacon을 이용한 화재 대피 솔루션 앱 개발 - 특허 진행 중](https://github.com/KH54/Portfolio/tree/main/Award/2021%20LINC%2B%20BeaconScan)
   - ( Android Studio , HTML5, Arduino, BLE )
