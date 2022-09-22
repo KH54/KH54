@@ -28,7 +28,7 @@
 ##  <div align="center"> 💼 Careers 💼 </div>
 :pencil2: Information and Communication Engineering in Hannam University (2016.03 ~ 2022.02)   
 :construction_worker: Intern in ymtech (2021.08 ~ 2022. 02)   
-:pencil2: Codestates back end course (2022.08.19 ~ 22.09.14)
+:pencil2: Codestates back end course (2022.08.19 ~ 22.09.14) <br>
 :construction_worker: Researcher in SaftTechResearch (2022.09.15 ~ )
 <br><br><br>
 
